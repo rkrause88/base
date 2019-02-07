@@ -9,7 +9,7 @@
     <a href="https://github.com/rkrause88/base/issues?utf8=✓&q=is%3Aissue+is%3Aopen+" alt="Open Issues">
         <img src="https://img.shields.io/github/issues-raw/rkrause88/base.svg" /></a>
     <a href="https://twitter.com/black7774" alt="Follow">
-        <img src="https://img.shields.io/twitter/follow/black7774r.svg?label=Follow" /></a>
+        <img src="https://img.shields.io/twitter/follow/black7774.svg?label=Follow" /></a>
 </p>
 
 
